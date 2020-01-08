@@ -9,11 +9,7 @@ My CV can be found [HERE](files/SEAN_DILLON_CV.pdf)
 
 My publications can be found HERE
 
-
-
-
-
-You can use the [editor on GitHub](https://github.com/seandillon48/seandillon48.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can find me on [Twitter](https://twitter.com/seandillon48)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
