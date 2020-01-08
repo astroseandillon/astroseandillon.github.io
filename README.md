@@ -3,11 +3,9 @@
 
 <img src="images/headshot1.JPG" width="200" >
 
-Hello, My name is Sean Dillon. I am a senior at California State University, Chico, studying physics. 
+Hello, My name is Sean Dillon. I am a senior at California State University, Chico, studying physics. blah blah blah
 
-My resume can be found HERE
-
-My CV can be found HERE
+My CV can be found [HERE](/files/SEAN_DILLON_CV)
 
 My publications can be found HERE
 
