@@ -3,6 +3,17 @@
 
 <img src="images/headshot1.JPG" width="200" >
 
+Hello, My name is Sean Dillon. I am a senior at California State University, Chico, studying physics. 
+
+My resume can be found HERE
+
+My CV can be found HERE
+
+My publications can be found HERE
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/seandillon48/seandillon48.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
