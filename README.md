@@ -7,7 +7,7 @@ Hello, My name is Sean Dillon. I am a senior at California State University, Chi
 
 My CV can be found [HERE](files/SEAN_DILLON_CV.pdf)
 
-My publications can be found HERE
+My publications can be found [HERE](publications.md)
 
 You can find me on [Twitter](https://twitter.com/seandillon48)
 
