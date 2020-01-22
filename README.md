@@ -13,4 +13,4 @@ My publications can be found [HERE](publications.md)
 
 You can find me on Twitter [@seandillon48](https://twitter.com/seandillon48)
 
-
+[MADT307 Blog](Blog.md)
