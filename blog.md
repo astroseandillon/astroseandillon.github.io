@@ -23,8 +23,4 @@ For this blog, I like to think of the evolution of storing music.
 #### Spotify (2006-present)
 
 
-
 ## Blog 3
-
-
-
