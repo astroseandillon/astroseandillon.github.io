@@ -10,7 +10,7 @@ When I'm not working on homework and/or cussing out my code, you can often find 
 
 
 ## Blog 2
-For this blog, I like to think of the evolution of storing music. 
+For this blog, I like to think of the evolution of storing music. Music has always been a way of communication. However, capturing the sound of music is relatively recent. As time changes, so is the way we store music. We show here the evolution of music storage, and the progression from wax cylinders to spotify. 
 
 #### Phonograph Cylinder (1896-1915) [source](https://en.wikipedia.org/wiki/Phonograph_cylinder)
 <img src="images/Edisongoldmoulded.jpg" width="200" >
