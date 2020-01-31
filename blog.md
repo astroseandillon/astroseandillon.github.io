@@ -13,14 +13,18 @@ When I'm not working on homework and/or cussing out my code, you can often find 
 For this blog, I like to think of the evolution of storing music. 
 
 #### Phonograph Cylinder (1896-1915)
+<img src="images/headshot1.JPG" width="200" >
 
 #### Vinyl Record (1940s-present)
+<img src="images/headshot1.JPG" width="200" >
 
 #### Compact Disk (1982-present) [source](https://simple.wikipedia.org/wiki/Compact_disc)
+<img src="images/headshot1.JPG" width="200" >
 
 #### LimeWire (2000-2010)
+<img src="images/headshot1.JPG" width="200" >
 
 #### Spotify (2006-present)
-
+<img src="images/headshot1.JPG" width="200" >
 
 ## Blog 3
