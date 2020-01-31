@@ -10,6 +10,17 @@ When I'm not working on homework and/or cussing out my code, you can often find 
 
 
 ## Blog 2
+For this blog, I like to think of the evolution of storing music. 
+
+#####Phonograph Cylinder (1896-1915)
+
+#####Vinyl Record (1940s-present)
+
+#####Compact Disk (1982-present)
+
+#####LimeWire (2000-2010)
+
+#####Spotify (2006-present)
 
 
 
