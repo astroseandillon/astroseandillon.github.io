@@ -12,10 +12,10 @@ When I'm not working on homework and/or cussing out my code, you can often find 
 ## Blog 2
 For this blog, I like to think of the evolution of storing music. 
 
-#### Phonograph Cylinder (1896-1915)
+#### Phonograph Cylinder (1896-1915) [source](https://en.wikipedia.org/wiki/Phonograph_cylinder)
 <img src="images/headshot1.JPG" width="200" >
 
-#### Vinyl Record (1940s-present)
+#### Vinyl Record (1940s-present) [source](https://en.wikipedia.org/wiki/LP_record)
 <img src="images/headshot1.JPG" width="200" >
 
 #### Compact Disk (1982-present) [source](https://simple.wikipedia.org/wiki/Compact_disc)
