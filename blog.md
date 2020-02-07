@@ -28,3 +28,24 @@ For this blog, I like to think of the evolution of storing music. Music has alwa
 <img src="images/spotify.png" width="200" >
 
 ## Blog 3
+Question: If all of your friends jumped off a bridge, would you jump too?
+
+Machine Learning Algorithm: yes.
+
+I am interested in looking into machine learning, or Artificial Intelligence for all the sci-fi geeks out there. When most people think of Artificial Intelligence, they almost always think back to Arnold Schwarzenegger in the hit movie Terminator. However, it is incredibly unlikely that AI, or machine-learning, will ever rise up against us. It is, however, an incredibly useful tool that allows for advancements ranging from science to the stock exchange. There are of course risks that machine learning could be abused, but it is unlikely to be spawning robots and destroying civilization. 
+
+Modern machine learning is just extrapolating from previous data. It uses previous data as the sole source of what to do in the future. In order to use machine learning algorithms, computer scientists give the computer sample data that it can then use to make further predictions. And computers are really good at making further predictions. 
+
+While I have never intentionally created or interacted with machine learning, I have been exposed to it in my research as a physicist. While coding for a research project, it was suggested to me that I use a python library called scikit-learn, which I found out later to be a library that focuses on machine learning. I only used a few functions from said library, but it was enough to spark my curiosity. (Over winter break, I was able to go to the American Astronomical Society meeting in Honolulu, where I was able to meet with some representatives from NUMfocus, a group that helps create almost all scientific libraries in python, including scikit-learn, numpy, scipy, astropy, matplotlib, etc.) 
+
+For my kickstarter project, I want to learn more about machine learning and how to use it in my scientific research and to apply it to further research. For the project itself, well, there’s still a lot that will need to be done. But something with machine-learning would be cool. 
+
+
+
+
+
+
+
+
+
+
