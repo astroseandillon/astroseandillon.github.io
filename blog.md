@@ -46,7 +46,7 @@ For my kickstarter project, I want to learn more about machine learning and how 
 ## Blog 6
 [Blog 6](files/Kickstart Research Brief.pdf)
 
-
-
+## Blog 8
+[Blog 8](files/Blog 8.pdf)
 
 
