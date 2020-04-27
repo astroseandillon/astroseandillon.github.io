@@ -49,4 +49,6 @@ For my kickstarter project, I want to learn more about machine learning and how 
 ## Blog 8
 [Blog 8](files/Blog 8.pdf)
 
+## Blog 9
+We definitely do need to reconsider Net Neutrality because we have already been shown that, in the middle of a disaster, ISPs have no mercy for data usage. In 2018, when the Camp Fire destroyed the town of Paradise, Verizon cut the allowed data usage to first responders. This COVID-19 pandemic shows the large amount of digital divide. I personally believe that the internet should be a public utility, regardless of region. 
 
