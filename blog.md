@@ -52,3 +52,5 @@ For my kickstarter project, I want to learn more about machine learning and how 
 ## Blog 9
 We definitely do need to reconsider Net Neutrality because we have already been shown that, in the middle of a disaster, ISPs have no mercy for data usage. In 2018, when the Camp Fire destroyed the town of Paradise, Verizon cut the allowed data usage to first responders. This COVID-19 pandemic shows the large amount of digital divide. I personally believe that the internet should be a public utility, regardless of region. 
 
+## Blog 10
+FOMO has always been weird to me. In highschool, I was a nerd and didn't really get invited to parties. I was always trying to listen to kids' stories of the parties when they talked about them in class, and just made myself depressed. Now that I'm in college, I can actually do some of the things that I've idolized about being an adult, like living in the dorms, begging parents for money, and drinking in bars. Now that I am in quarantine (today marks day 50), I think everyone is having a bit of their FOMO anxieties lessened, as there isn't really anything to miss out on. 
