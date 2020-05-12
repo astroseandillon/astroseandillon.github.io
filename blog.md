@@ -54,3 +54,6 @@ We definitely do need to reconsider Net Neutrality because we have already been 
 
 ## Blog 10
 FOMO has always been weird to me. In highschool, I was a nerd and didn't really get invited to parties. I was always trying to listen to kids' stories of the parties when they talked about them in class, and just made myself depressed. Now that I'm in college, I can actually do some of the things that I've idolized about being an adult, like living in the dorms, begging parents for money, and drinking in bars. Now that I am in quarantine (today marks day 50), I think everyone is having a bit of their FOMO anxieties lessened, as there isn't really anything to miss out on. 
+
+## Final Course Reflection
+[Final Course Reflection](files/MADT 307 Reflection Paper.pdf)
