@@ -7,7 +7,7 @@ Hello, My name is Sean Dillon. I am a graduate student at the University of Texa
 
 When I'm not working on homework and/or yelling at my code, you can often find me enjoying a nice hike outdoors. Otherwise, I'm playing Dungeons and Dragons with my roommates.
 
-My CV can be found [HERE](files/SEAN_DILLON_CV.pdf)
+My CV can be found [HERE](files/CV_Draft_3_Sean.pdf)
 
 My publications can be found [HERE](publications.md)
 
