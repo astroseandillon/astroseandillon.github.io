@@ -1,8 +1,7 @@
 ## Sean Dillon
 
-#### [CV](files/CV_Draft_3_Sean.pdf) 
-#### [Publications](publications.md)
-#### [Twitter](https://twitter.com/seandillon48)
+#### [CV](files/CV_Draft_3_Sean.pdf)   |   [Publications](publications.md)   |   [Twitter](https://twitter.com/seandillon48)
+
 
 <img src="images/headshot1.JPG" width="200" >
 
