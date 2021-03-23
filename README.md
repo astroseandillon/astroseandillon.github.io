@@ -1,6 +1,9 @@
 ## Sean Dillon
 
-[about](PAGE-NAME.md)
+#### [About](PAGE-NAME.md) 
+#### [CV](files/CV_Draft_3_Sean.pdf) 
+#### [Publications](publications.md)
+#### [Twitter](https://twitter.com/seandillon48)
 
 <img src="images/headshot1.JPG" width="200" >
 
@@ -8,9 +11,4 @@ Hello, My name is Sean Dillon. I am a graduate student at the University of Texa
 
 When I'm not working on homework and/or yelling at my code, you can often find me enjoying a nice hike outdoors. Otherwise, I'm playing Dungeons and Dragons with my roommates.
 
-My CV can be found [HERE](files/CV_Draft_3_Sean.pdf)
-
-My publications can be found [HERE](publications.md)
-
-You can find me on Twitter [@seandillon48](https://twitter.com/seandillon48)
 
