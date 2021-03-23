@@ -1,6 +1,5 @@
 ## Sean Dillon
 
-#### [About](PAGE-NAME.md) 
 #### [CV](files/CV_Draft_3_Sean.pdf) 
 #### [Publications](publications.md)
 #### [Twitter](https://twitter.com/seandillon48)
