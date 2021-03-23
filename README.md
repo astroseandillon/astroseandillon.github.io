@@ -1,5 +1,6 @@
 ## Sean Dillon
 
+[about](PAGE-NAME.md)
 
 <img src="images/headshot1.JPG" width="200" >
 
