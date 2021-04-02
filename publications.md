@@ -1,5 +1,9 @@
 ## Publications 
 
+####  [Home](README.md)   |   [CV](files/CV_Draft_3_Sean.pdf)   |   [Publications](publications.md)   |   [Twitter](https://twitter.com/seandillon48)  |  [Research](research.md)
+
+
+
 [Professional Publications](https://orcid.org/0000-0003-2983-5717)
 
 ## Posters
