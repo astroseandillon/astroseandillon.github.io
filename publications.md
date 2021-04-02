@@ -8,11 +8,11 @@
 
 ## Posters
 
-[Poster](files/AAS Poster.pdf) presented at the 235th AAS Meeting
+[Poster](files/AAS Poster.pdf) presented at the 235th American Astronomical Society Meeting
 
 [Poster](files/Research Poster Sean Dillon.pdf) presented at California State University - Chico's College of Natural Sciences Poster Session
 
 ## Talks/Presentations
 
-[Talk](files/SeanDillon-talk.pptx) presented at APS FWS Fall Meeting at Stanford University
+[Talk](files/SeanDillon-talk.pptx) presented at American Physical Society -- Far West Section Fall Meeting at Stanford University
 
