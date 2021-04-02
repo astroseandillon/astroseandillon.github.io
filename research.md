@@ -1,5 +1,9 @@
 # A Brief Research History
 
+
+####  [Home](README.md)   |   [CV](files/CV_Draft_3_Sean.pdf)   |   [Publications](publications.md)   |   [Twitter](https://twitter.com/seandillon48)  |  [Research](research.md)
+
+
 _In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move._
 
 -Douglas Adams
