@@ -10,5 +10,5 @@
 
 
 
-<embed src="files/CV_Dillon_Sean.pdf" type="application/pdf" />
+<embed src="files/CV_Dillon_Sean.pdf" type="application/pdf" height="300" width="400"/>
 
