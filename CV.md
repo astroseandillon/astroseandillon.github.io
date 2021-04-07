@@ -1,1 +1,1 @@
-<a href="files/CV_Dillon_Sean.pdf" target="_blank">PDF.</a>
+<a href="files/CV_Dillon_Sean.pdf" class="image fit">PDF.</a>
