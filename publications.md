@@ -14,5 +14,5 @@
 
 ## Talks/Presentations
 
-[Talk](files/SeanDillon-talk.pptx) presented at American Physical Society -- Far West Section Fall Meeting at Stanford University
+[Talk](files/SeanDillon-talk.pdf) presented at American Physical Society -- Far West Section Fall Meeting at Stanford University
 
