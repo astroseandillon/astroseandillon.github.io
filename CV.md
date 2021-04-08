@@ -1,4 +1,4 @@
-####  [Home](README.md)   |   [CV](CV.md)   |   [Publications](publications.md)   |   [Twitter](https://twitter.com/seandillon48)  |  [Research](research.md)
+####  [Home](README.md)   |   [CV](CV.md)   |   [Publications](publications.md)   |   [Contact](contact.md)  |  [Research](research.md)
 
 
 
