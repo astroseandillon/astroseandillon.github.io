@@ -21,7 +21,16 @@ Solar convection is a very interesting topic. Do you know how when you add milk 
 __There will be a picture posted here later__
 
 ### Galaxy Evolution
+When I started an [REU program](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517) at [Haverford College](https://www.haverford.edu/), I had very little background in astronomy (I still don't, but its gotten better). As a result, this led me to some fascinating research in the field of galaxy evolution. My advisor, Dr. Karen Masters, works heavily with the Sloan Digital Sky Survey ([SDSS](https://www.sdss.org/)) subsurvey [MaNGA](https://www.sdss.org/surveys/manga/), which has data from ~10,000 nearby galaxies. 
 
+Galaxies come in all shapes and sizes. Some are really big, some are only moderately big. Some are bright red and pink, others are more blue. Some are really old, some are new, and some are a mystery unto themselves. Originally, it was thought that the color and the shape of a galaxy could determine it's age. When it was realized that that was wrong, astronomers started looking at other measurable quantities could be used to determine the age. My work with galaxies (as well as my current work) revolved around the what these galaxies are made of, looking at spectra from galaxies and comparing them to other quantities, such as solar mass, metallicity (how much stuff is there that's heavier than helium), nearest neighbors, etc. 
+
+__Insert Hubble Tuning Fork Diagram Here__
+
+### Cosmic Dust 
+Currently, I am working with Dr. Angela Speck on modeling cosmic dust around the star RX Boo (which my partner lovingly refers to as Dr. Booboo). We are using a modeling program DUSTY, which models dust around blackbodies. 
+
+__Still a Work In Progress__
 
 
 
