@@ -4,7 +4,7 @@
 
 
 
-[Professional Publications](https://orcid.org/0000-0003-2983-5717)
+[Professional Publications](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Dillon%2C%20Sean%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 ## Posters
 
