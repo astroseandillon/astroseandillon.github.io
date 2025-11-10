@@ -4,11 +4,11 @@
 
 
 
-<a href="files/CV_Updated_11_10_25.pdf"  type="application/pdf">PDF.</a>
+<a href="files/CV_Updated_11_10_2025.pdf"  type="application/pdf">PDF.</a>
 
 
 
 
 
-<embed src="files/CV_Updated_11_10_25.pdf" type="application/pdf" height="1100" width="850"/>
+<embed src="files/CV_Updated_11_10_2025.pdf" type="application/pdf" height="1100" width="850"/>
 
