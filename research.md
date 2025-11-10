@@ -8,6 +8,9 @@ _In the beginning the Universe was created. This has made a lot of people very a
 
 -Douglas Adams
 
+## Crystal Math
+When studying dust around AGB stars, it is important to understand the impact that the shape of the dust grains have on our measured spectra. For simplicity, we assume that dust grains are spherical (like cows). My work looks at modeling how different shape and size distributions of dust grains affect our models. We generate these models using Radiative Transfer (RT) models, which output spectral energy distributions (SED). SEDs give an example of what we _think_ a spectra should look like, given a set of properties such as stellar temperature, dust shell distance, dust abundances, density, etc. _My_ code calculates the absorption and scattering cross-sections for a set of user-specified dust grains. Each dust grain can have its own size and shape distribution. 
+
 ## Computational Astrophysics
 When I was in high school, I had to interview an astrophysicist for my senior project. A bit of advice he gave me was to get really good at python programming. Fast forward to the present day, and I think I have a relatively decent amount of experience in computation (or, at the very least, in googling stuff until it works).
 
